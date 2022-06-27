@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "&emsp Jing Qian &emsp"
+title                    : "Jing Qian"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
