@@ -17,13 +17,11 @@ Education
 
 Work experience
 ======
-* June 2020 - Oct. 2020: Maanshan Center for Disease Control and Prevention
-  * Intern
+* June 2020 - Oct. 2020: Maanshan Center for Disease Control and Prevention (Internship)
   * Duties included: Environmental quality assessment, Occupational risk factor exposure assessment.
   * Won the title of excellent Intern.
 
-* June 2018 - Oct. 2019: Chaohu Hospital Affiliated to Anhui Medical University
-  * Intern
+* June 2018 - Oct. 2019: Chaohu Hospital Affiliated to Anhui Medical University (Internship)
   * Duties included: First operation assistant in Urology, Plastic Surgery, Anorectal Department, and Breast Department
   
 Skills
