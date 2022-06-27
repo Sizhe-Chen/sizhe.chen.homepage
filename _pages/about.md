@@ -18,4 +18,4 @@ News
 ------
 + [22.6] I have been accepted to attend [Oxford Machine Learning Summer School](https://www.oxfordml.school/) for ML Health track.
 + [22.6] Our review [Antibiotic-resistant microbes, antibiotic resistance genes and One Health](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CAPJ&dbname=CAPJDAY&filename=WSWT20220610000&uniplatform=NZKPT&v=OUd6pkyNl_mYBoEWPy7JFYpJ_aai1Cz4UXLz6NqNC1VXLl0Ka50iRC_EkEGnvk4O) was accepted by **Microbiology China**. [[Media](https://mp.weixin.qq.com/s/aEQGbrlj_tXnGgTCSSyArw)]
-+ [22.6] I have completed the course [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/22JZWA9PV86K) by Andrew Ng
++ [22.6] I have completed the course [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/22JZWA9PV86K) by Andrew Ng.
