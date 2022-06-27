@@ -11,9 +11,9 @@ title                    : " "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://Sizhe-Chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/sizhe.chen.homepage" # the subpath of your site, e.g. "/blog"
-repository               : "Sizhe-Chen/sizhe.chen.homepage"
+url                      : https://jing-qian-9898.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/jing.qian.homepage" # the subpath of your site, e.g. "/blog"
+repository               : "jing-qian-9898/jing.qian.homepage"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sizhe Chen"
+  name             : "Jing Qian"
   avatar           : "profile.jpg"
-  bio              : "Postgraduate Student, SJTU"
+  bio              : "Postgraduate Student, SHSMU-CCDC"
   location         : "Shanghai, China"
   employer         :
-  googlescholar    : "https://scholar.google.com.hk/citations?user=X-JmE9UAAAAJ&hl=zh-CN"
-  email            : "sizhe.chen@sjtu.edu.cn"
+  googlescholar    : 
+  email            : "qianjing98@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Sizhe-Chen"
+  github           : "jing-qian-9898"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "%E7%92%9F-%E9%92%B1-22b32712a"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
