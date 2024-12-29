@@ -61,9 +61,7 @@ Misc
 + **Games**: Super Mario Odyssey, The Resistance: Avalon, Dou Dizhu <br/>
 
 <div style="max-width: 350px; align: left; display: flex"><img src="https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true"/></div>
-<div style="max-width: 350px; align: right; display: flex"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RDdNMEkPYOvHnn4Mr-0kAnakB8Z_o6113sJcvEWqA_4"></script></div>
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -93,10 +91,10 @@ Misc
 <h2>Two Equal Columns</h2>
 
 <div class="row">
-  <div class="column" style="background-color:#aaa;">
+  <div class="column" style="">
     <img src="https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true"/>
   </div>
-  <div class="column" style="background-color:#bbb;">
+  <div class="column" style="">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RDdNMEkPYOvHnn4Mr-0kAnakB8Z_o6113sJcvEWqA_4"></script>
   </div>
 </div>
