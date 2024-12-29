@@ -60,6 +60,6 @@ Misc
 + **Writing**: [Chinese blogs](http://xhslink.com/5JP3XI) about my thoughts and experience. 
 + **Games**: Super Mario Odyssey, The Resistance: Avalon, Dou Dizhu <br/>
 
-<img src="https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true" max-width="30%"/>
+<img src="https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true" max-width="300"/>
 
 <div style="max-width: 300px"><script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RDdNMEkPYOvHnn4Mr-0kAnakB8Z_o6113sJcvEWqA_4"></script></div>
