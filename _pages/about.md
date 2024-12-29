@@ -60,8 +60,6 @@ Misc
 + **Writing**: [Chinese blogs](http://xhslink.com/5JP3XI) about my thoughts and experience. 
 + **Games**: Super Mario Odyssey, The Resistance: Avalon, Dou Dizhu <br/>
 
-<div style="max-width: 350px; align: left; display: flex"><img src="https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true"/></div>
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -70,15 +68,18 @@ Misc
   box-sizing: border-box;
 }
 
-/* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
-  padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  width: 60%;
+  padding: 5px;
 }
 
-/* Clear floats after the columns */
+.column2 {
+  float: left;
+  width: 40%;
+  padding: 5px;
+}
+
 .row:after {
   content: "";
   display: table;
@@ -86,15 +87,13 @@ Misc
 }
 </style>
 </head>
-<body>
-
-<h2>Two Equal Columns</h2>
+<body> 
 
 <div class="row">
   <div class="column" style="">
     <img src="https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true"/>
   </div>
-  <div class="column" style="">
+  <div class="column2" style="">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RDdNMEkPYOvHnn4Mr-0kAnakB8Z_o6113sJcvEWqA_4"></script>
   </div>
 </div>
