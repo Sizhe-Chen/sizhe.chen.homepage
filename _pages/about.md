@@ -17,7 +17,7 @@ I am fortunate to have mentored lots of talented students (and some from underre
 
 Invited Talks
 ------
-+ **Prompt Injection Defense by Structured Queries and Secure Alignment** <br/> [![](https://img.shields.io/badge/Talk-edca82)](https://docs.google.com/document/d/1pip5y_HGU4qjN0K6NEFuI379RPdL9T6o/edit?usp=sharing) [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1baUbgFMILhPWBeGrm67XXy_H-jO7raRa/view?usp=sharing) [![](https://img.shields.io/badge/Media-bf2c34)](https://mp.weixin.qq.com/s/FRsndA2Q_TzT6ghkktO7Lw) <br/> UC Berkeley Security Seminar 2024 <br/> Hong Kong Baptist University TMLR Young Scientist Seminar 2024 <br/> Shanghai Jiao Tong University PAMI Group Seminar 2024
++ **Prompt Injection Defense by Structured Queries and Secure Alignment** [![](https://img.shields.io/badge/Talk-edca82)](https://docs.google.com/document/d/1pip5y_HGU4qjN0K6NEFuI379RPdL9T6o/edit?usp=sharing) [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1baUbgFMILhPWBeGrm67XXy_H-jO7raRa/view?usp=sharing) [![](https://img.shields.io/badge/Media-bf2c34)](https://mp.weixin.qq.com/s/FRsndA2Q_TzT6ghkktO7Lw) <br/> UC Berkeley Security Seminar 2024 <br/> Hong Kong Baptist University TMLR Young Scientist Seminar 2024 <br/> Shanghai Jiao Tong University PAMI Group Seminar 2024
 + **On the Learning Preference of Deep Neural Networks** [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/11G7gn0-_sAsLTc5vKi6econZlCZdR0Kg/view?usp=sharing) <br/> ICLR Oral Track 2023 <br/> AI Time Youth Ph.D. Talk 2023
 + **Subspace Adversarial Training** [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1NaF_bZkrPvfsScLfVcjPqcPVQ3CW8hoK/view?usp=sharing) <br/> CVPR Oral Track 2022
 + **Adversarial Attacks and Defenses** [![](https://img.shields.io/badge/Slides-f47a60)](https://drive.google.com/file/d/1i6CIrdynqdidqgoTACkSmJEVQm7xRT0S/view?usp=sharing) <br/> Northeastern University Security Seminar 2022
@@ -60,6 +60,6 @@ Misc
 + **Writing**: [Chinese blogs](http://xhslink.com/5JP3XI) about my thoughts and experience. 
 + **Games**: Super Mario Odyssey, The Resistance: Avalon, Dou Dizhu <br/>
 
-<img src="https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true" width="600"/>
+<img src="https://github.com/Sizhe-Chen/Sizhe-Chen.github.io/blob/master/images/piano.jpg?raw=true" width="400"/>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RDdNMEkPYOvHnn4Mr-0kAnakB8Z_o6113sJcvEWqA_4" width="600"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RDdNMEkPYOvHnn4Mr-0kAnakB8Z_o6113sJcvEWqA_4" width="400"></script>
