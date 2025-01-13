@@ -55,8 +55,8 @@ Awards
 Misc
 ------
 + I practice neatness and minimalism.
-+ **Sports**: weightlifting, badminton, table tennis, skiing (beginner)
-+ **Music**: attend classic concerts (directed three 1K-spectator ones), [rearrange pop songs](https://mp.weixin.qq.com/s/N2HMCAK7GdTAvyFQnfhhzA) (G.E.M. always empowers me)
++ **Sports**: skiing, table tennis, badminton
++ **Music**: classic concerts (directed three 1K-spectator ones)
 + **Writing**: [Chinese blogs](http://xhslink.com/5JP3XI) about my thoughts and experience. 
 + **Games**: Super Mario Odyssey, The Resistance: Avalon, Dou Dizhu <br/>
 
