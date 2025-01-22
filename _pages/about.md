@@ -57,7 +57,7 @@ Misc
 + I practice neatness and minimalism.
 + **Sports**: skiing, table tennis, hiking, weightlifting, singing
 + **Music**: classic concerts (directed three 1K-spectator ones)
-+ **Writing**: [Chinese blogs](http://xhslink.com/5JP3XI) about my thoughts and experience. <br/>
++ **Writing**: [blogs](http://xhslink.com/5JP3XI) about my thoughts and experience. <br/>
 
 <html>
 <head>
