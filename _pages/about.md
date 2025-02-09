@@ -55,9 +55,8 @@ Awards
 Misc
 ------
 + I practice neatness and minimalism.
-+ **Sports**: skiing, table tennis, hiking, weightlifting, singing
-+ **Music**: classic concerts (directed three 1K-spectator ones)
-+ **Writing**: [blogs](http://xhslink.com/5JP3XI) about my thoughts and experience. <br/>
++ I love to ski, hike, play table tennis, and attend classic/pop concerts.
++ I write [blogs](http://xhslink.com/5JP3XI) about my thoughts and experience. <br/>
 
 <html>
 <head>
